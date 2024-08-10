@@ -1,1 +1,1 @@
-# AdventureWork2020
+The file AdventureWorksDW2020.bak contains unprocessed business data from the years 2018, 2019, and 2020. The process of data cleaning, processing, creating relationships between tables, and generating charts and dashboards was carried out in the file AdventureWork2020.pbix. If you are unable to view the AdventureWork2020.pbix file, you can download a PDF file to preview it. Please note that you will not be able to interact with the charts in the PDF file.
